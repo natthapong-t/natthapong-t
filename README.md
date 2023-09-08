@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-I'm currently in my 3rd year at Khon Kaen University
+I'm currently in my 4th year at Khon Kaen University
 
 * 🌍  I'm based in Khon Kaen, Thailand
 * 🖥️  See my portfolio at [natthapong-t.github.io](http://natthapong-t.github.io/)
