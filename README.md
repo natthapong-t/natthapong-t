@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Natthapong Thaboran
 ===========================================================================================================================================
 
-Computer Science Student
+Front-End Developer
 ------------------------
 
-I'm currently in my 4th year at Khon Kaen University
+I'm currently working as a Front-End Developer
 
-* 🌍  I'm based in Khon Kaen, Thailand
+* 🌍  I'm studied at Khon Kaen University, Based in Thailand
 * 🖥️  See my portfolio at [natthapong-t.github.io](http://natthapong-t.github.io/)
 * ✉️  You can contact me at [natthapong.t@kkumail.com](mailto:natthapong.t@kkumail.com)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning Next.js and other backend stuff
 
 ### Skills
 
