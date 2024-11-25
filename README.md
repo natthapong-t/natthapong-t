@@ -30,6 +30,7 @@ I'm currently working as a Front-End Developer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/natthapong-t" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/natthapong-thaboran-8938b2313/" target="_blank" rel="noreferrer"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
