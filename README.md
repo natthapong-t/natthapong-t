@@ -6,10 +6,10 @@ Front-End Developer
 
 I'm currently working as a Front-End Developer
 
-* 🌍  I'm studied at Khon Kaen University, based in Thailand
-* 🖥️  Checkout my portfolio at [natthapong-t.github.io](http://natthapong-t.github.io/)
+* 🌍  I studied at Khon Kaen University, Thailand.
+* 🖥️  Check out my portfolio at [natthapong-t.github.io](http://natthapong-t.github.io/)
 * ✉️  You can contact me at [natthapong.t@kkumail.com](mailto:natthapong.nth@gmail.com)
-* 🧠  I'm learning Next.js and other backend stuff
+* 🧠  I'm learning Next.js and other backend stuff.
 
 ### Skills
 
