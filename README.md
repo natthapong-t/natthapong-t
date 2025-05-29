@@ -8,7 +8,7 @@ I'm currently working as a Front-End Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natthapong-t&label=Profile%20views&color=0e75b6&style=flat" alt="natthapong-t" /> </p>
 
-* 🌍  I studied at Khon Kaen University, Thailand.
+* 🌍  I graduated from Khon Kaen University, Thailand.
 * 🖥️  Check out my portfolio at [natthapong-t.github.io](http://natthapong-t.github.io/)
 * ✉️  You can contact me at [natthapong.nth@gmail.com](mailto:natthapong.nth@gmail.com)
 * 🧠  I'm learning Next.js and other backend stuff.
