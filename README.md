@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 ------------------------
 
-I'm currently working as a Front-End Developer
+I'm currently working as a Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natthapong-t&label=Profile%20views&color=0e75b6&style=flat" alt="natthapong-t" /> </p>
 
