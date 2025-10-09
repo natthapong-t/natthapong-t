@@ -11,7 +11,7 @@ I'm currently working as a Developer
 * 🌍  I graduated from Khon Kaen University, Thailand.
 * 🖥️  Check out my portfolio at [natthapong-t.github.io](http://natthapong-t.github.io/)
 * ✉️  You can contact me at [natthapong.nth@gmail.com](mailto:natthapong.nth@gmail.com)
-* 🧠  I'm learning Next.js and other backend stuff.
+* 🧠  I'm learning .NET Core and other backend stuff.
 
 ### Skills
 
