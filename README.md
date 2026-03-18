@@ -9,13 +9,12 @@ I craft intuitive user experiences and bring them to life with clean, scalable c
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natthapong-t&label=Profile%20views&color=0891b2&style=flat" alt="natthapong-t" /> </p>
 
 * 🎓  Graduated from Khon Kaen University, Thailand
-* 🖥️  Portfolio: [natthapong-t.github.io](http://natthapong-t.github.io/)
+* 🖥️  Portfolio: [here](https://money-trees-chi.vercel.app/)
 * ✉️  Contact me at [natthapong.nth@gmail.com](mailto:natthapong.nth@gmail.com)
-* 🎨  Skilled in UX/UI design with Figma & Adobe XD
+* 🎨  Skilled in UX/UI design with Figma
 * 📱  Building mobile apps with Flutter & React Native
 * 🌐  Building web apps with React, Next.js & TypeScript
 * 🧠  Currently exploring backend with .NET Core & Node.js
-* 🤝  Open to collaborating on design systems & full-stack projects
 
 ---
 
@@ -65,7 +64,7 @@ I craft intuitive user experiences and bring them to life with clean, scalable c
 
 <p align="left">
   <a href="https://www.github.com/natthapong-t" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/natthapong-thaboran-8938b2313/" target="_blank" rel="noreferrer"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/natthapong-t-8938b2313/" target="_blank" rel="noreferrer"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="32" height="32" /></a>
 </p>
 
 ---
